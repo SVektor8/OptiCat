@@ -1,0 +1,7 @@
+numpy>=1.24
+plotly>=5.20
+matplotlib>=3.8
+ipython>=8.12
+ipywidgets>=8.1
+ipympl>=0.9
+kaleido>=0.2.1
